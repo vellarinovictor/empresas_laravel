@@ -36,6 +36,6 @@ class PruebaController extends Controller
         }
         return $respuesta;
     }
-    public function borrarempleado
+
 
 }
